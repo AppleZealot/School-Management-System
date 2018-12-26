@@ -1,2 +1,3 @@
-# School Management System
-This program helps schools organize records of students and teachers. 
+School Management System is a clean and modern system that covers everything from exams to keeping records of students and teachers for all administrator. SMS has a ton of features that largely appeal to teachers and administration staff. It provides admins with what they need to efficiently manage their student records. It’s built with a complete suite of applications that permits you to automate all aspects of a record management, including student information system and student-grading. SMS provides different access levels to its users. The Super User/Administrator, Teacher and Student all have separate access levels allowing them to only access information they require.
+
+SMS is built using Java Swing API
